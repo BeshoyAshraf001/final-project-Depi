@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MobileAdvisor.API/MobileAdvisor.API.csproj" />
+  <Project Path="MobileAdvisor.BLL/MobileAdvisor.BLL.csproj" />
+  <Project Path="MobileAdvisor.DAL/MobileAdvisor.DAL.csproj" />
+</Solution>

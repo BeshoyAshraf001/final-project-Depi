@@ -1,0 +1,11 @@
+@MobileAdvisor.API_HostAddress = http://localhost:5289
+
+GET {{MobileAdvisor.API_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{MobileAdvisor.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
